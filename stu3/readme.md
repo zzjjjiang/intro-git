@@ -1,6 +1,0 @@
-# About Me
-My name is ...
-
-## Food
-My favorite food is: ...
-
